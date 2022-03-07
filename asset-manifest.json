@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/sapna770/astro.git/static/js/main.d1e5dbef.js",
+    "main.js": "/sapna770/astro.git/static/js/main.dffa64b9.js",
     "index.html": "/sapna770/astro.git/index.html",
-    "main.d1e5dbef.js.map": "/sapna770/astro.git/static/js/main.d1e5dbef.js.map"
+    "main.dffa64b9.js.map": "/sapna770/astro.git/static/js/main.dffa64b9.js.map"
   },
   "entrypoints": [
-    "static/js/main.d1e5dbef.js"
+    "static/js/main.dffa64b9.js"
   ]
 }
