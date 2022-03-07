@@ -24,7 +24,7 @@ import Yoga from './Pages/Yoga'
 function App() {
   return (
     <>
-      <Routes basename="/">
+      <Routes basename="/src">
         <Route path='/' element={<Home />} />
         <Route path='/about' element={<About />} />
         <Route path='/pricing' element={<Pricing />} />
